@@ -1,8 +1,0 @@
-1) Given a problem statement:
-   - Determine the test cases and constraints if they are not provided.
-   - constraints are required for space/time complexity.
-   - Always look for space/time complexity. If the problem statement clearly corresponds to large amount of data,that is , it is explicitly mentioned in the problem statement, Identify which DS/Algorithms are best suited for this. If the problem statement is pure off the shelf string/Array related with input data constrained to KBs, space/time complexity will be secondary but not the priority. 
-   - Problem solution:
-   		- psuedocode - validate - implement
-        - Time complexity should be linear time O(n) and space complexity should be constant time O(1).
-        - Time complexity should be Linear or Logarithmic - O(log n)? - Linear time complexity , time is directly proportional to the input data.
